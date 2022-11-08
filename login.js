@@ -1,4 +1,4 @@
-//check prime
+
 let num=23;
 let count=0;
 for(i=0;i<=num;i++){
@@ -10,3 +10,4 @@ for(i=0;i<=num;i++){
         console.log("Not a Prime");
     }
 }
+
